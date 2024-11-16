@@ -4,8 +4,11 @@ This dataset provides a detailed look into transactional behavior and financial 
 Key Features:
 
 TransactionID: Unique alphanumeric identifier for each transaction.
+
 AccountID: Unique identifier for each account, with multiple transactions per account.
+
 TransactionAmount: Monetary value of each transaction, ranging from small everyday expenses to larger purchases.
+
 TransactionDate: Timestamp of each transaction, capturing date and time.
 TransactionType: Categorical field indicating 'Credit' or 'Debit' transactions.
 Location: Geographic location of the transaction, represented by U.S. city names.
